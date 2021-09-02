@@ -55,10 +55,4 @@
                 "/>
     </include>
   </group>
-
-  <!-- <node pkg="sgba_simulation" type="SGBASimulation" name="SGBASimulation" output="screen">
-    <param name="map_file" type="string" value="/maps/map_20_20.txt"/>
-    <param name="log_file_path" type="string" value="/path_log/20_20_world/three_uavs"/>
-    <param name="uav_num" type="int" value="3"/>
-  </node> -->
 </launch>
